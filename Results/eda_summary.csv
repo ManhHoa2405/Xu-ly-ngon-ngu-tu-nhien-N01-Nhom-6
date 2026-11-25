@@ -1,0 +1,6 @@
+﻿category,num_docs,total_sentences,avg_sentences,avg_words,median_words,min_words,max_words,ratio_%
+Cong_nghe,249,7573,30.4,807.3,640.0,114,3793,17.54
+Giao_duc,271,6925,25.6,673.2,594.0,200,2275,19.08
+Kinh_te,300,8237,27.5,710.8,629.0,285,1917,21.13
+Suc_khoe,300,8089,27.0,706.5,660.0,190,1909,21.13
+The_thao,300,13131,43.8,977.3,837.0,297,4157,21.13

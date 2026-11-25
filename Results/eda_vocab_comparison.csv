@@ -1,0 +1,4 @@
+﻿Phiên bản,Tổng số token,Kích thước Vocabulary
+1. Văn bản thô (Raw),1101813,34896
+2. Chuẩn hóa + Ẩn PII + Tách âm tiết + Stopwords,840499,12657
+3. Chuẩn hóa + Ẩn PII + Tách từ ghép (underthesea),568007,29463

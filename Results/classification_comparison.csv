@@ -1,0 +1,6 @@
+﻿Mã TN,Cấu hình,Vocab Size,Accuracy,Macro-Precision,Macro-Recall,Macro-F1,Weighted-F1
+E1,"Baseline: Âm tiết + Count(1,1) + NB",5505,0.9296,0.9369,0.9292,0.9294,0.9296
+E2,"Từ ghép + Count(1,1) + NB",9878,0.9484,0.9516,0.9478,0.9481,0.9481
+E3,"Từ ghép + Count(1,2) + NB (tuned)",51081,0.9624,0.9643,0.9628,0.9629,0.9623
+E4,"Từ ghép + TF-IDF(1,1) + LogReg (tuned)",9878,0.9531,0.9547,0.9525,0.9529,0.9529
+E5,"Cải tiến: Từ ghép + TF-IDF(1,2) + LogReg (tuned)",51081,0.9577,0.9605,0.9575,0.958,0.9576

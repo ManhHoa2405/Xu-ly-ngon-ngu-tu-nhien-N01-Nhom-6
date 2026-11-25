@@ -1,0 +1,46 @@
+﻿Query,Expected_Cat,Rank,Cosine,Pred_Cat,Title
+trí tuệ nhân tạo và chip bán dẫn,Cong_nghe,1,0.2649,Cong_nghe,Thành lập trung tâm ươm tạo bán dẫn để phát triển nguồn nhân lực
+trí tuệ nhân tạo và chip bán dẫn,Cong_nghe,2,0.2083,Cong_nghe,'Mua công nghệ là cách nhanh để Việt Nam tự chủ bán dẫn'
+trí tuệ nhân tạo và chip bán dẫn,Cong_nghe,3,0.1808,Cong_nghe,"Công ty bán dẫn Nhật tìm đường cung cấp chip AI cho Apple, Meta"
+điện thoại thông minh camera mới,Cong_nghe,1,0.2393,Giao_duc,Chính phủ yêu cầu lập đề án quản lý học sinh dùng điện thoại
+điện thoại thông minh camera mới,Cong_nghe,2,0.17,Cong_nghe,Đánh giá Oppo Find N5: Điện thoại gập sang trang
+điện thoại thông minh camera mới,Cong_nghe,3,0.1617,Cong_nghe,"FPT giới thiệu camera có nút bấm đa năng, đàm thoại chủ động"
+an ninh mạng và bảo mật dữ liệu,Cong_nghe,1,0.3089,Cong_nghe,Tổng Bí thư Tô Lâm: Hiệp hội Dữ liệu Quốc gia là ngôi nhà chung của hiệp sĩ số
+an ninh mạng và bảo mật dữ liệu,Cong_nghe,2,0.1971,Cong_nghe,"Thiếu tướng Nguyễn Ngọc Cương: 'Chúng tôi muốn dữ liệu hóa nền kinh tế, xã hội'"
+an ninh mạng và bảo mật dữ liệu,Cong_nghe,3,0.1891,Cong_nghe,Nền tảng đào tạo an ninh mạng miễn phí cho người dân
+bóng đá đội tuyển Việt Nam ghi bàn,The_thao,1,0.1654,The_thao,Eder: 'Đóng góp của Ronaldo là không thể đong đếm'
+bóng đá đội tuyển Việt Nam ghi bàn,The_thao,2,0.1525,The_thao,Hủy trận giao hữu Nhật Bản - Việt Nam
+bóng đá đội tuyển Việt Nam ghi bàn,The_thao,3,0.1473,The_thao,Vì sao siêu phẩm của Việt Nam vào lưới Bỉ được gọi là 'bàn thắng Olympic'?
+giải ngoại hạng Anh huấn luyện viên,The_thao,1,0.104,The_thao,Man City phản đối 'lá chắn' pháp lý cho lãnh đạo Ngoại hạng Anh
+giải ngoại hạng Anh huấn luyện viên,The_thao,2,0.1022,The_thao,Chuyên gia Herbalife tập huấn dinh dưỡng và hồi phục cho cầu thủ
+giải ngoại hạng Anh huấn luyện viên,The_thao,3,0.0978,Suc_khoe,Giảm 47 kg nhờ thực đơn 'cho người lười' của ông bố hai con
+vận động viên huy chương vàng giải đấu,The_thao,1,0.2804,Giao_duc,Nữ sinh lớp 7 nhận Huân chương Lao động hạng nhất
+vận động viên huy chương vàng giải đấu,The_thao,2,0.1874,The_thao,Kẻ trộm không biết giá trị của HC vàng Olympic
+vận động viên huy chương vàng giải đấu,The_thao,3,0.182,The_thao,VOC: 'Thể thao thành tích cao cần mô hình huấn luyện liên ngành'
+lãi suất ngân hàng và tỷ giá đô la,Kinh_te,1,0.4217,Kinh_te,TS Cấn Văn Lực: 'Việc giảm lãi suất không dễ dàng'
+lãi suất ngân hàng và tỷ giá đô la,Kinh_te,2,0.4017,Kinh_te,Ngân hàng Nhà nước nâng tỷ giá trung tâm lên kỷ lục
+lãi suất ngân hàng và tỷ giá đô la,Kinh_te,3,0.3321,Kinh_te,Lãi suất trái phiếu ngân hàng neo cao dù tiết kiệm hạ nhiệt
+thị trường chứng khoán cổ phiếu tăng trưởng,Kinh_te,1,0.2146,Kinh_te,Bong bóng AI liệu đã vỡ?
+thị trường chứng khoán cổ phiếu tăng trưởng,Kinh_te,2,0.207,Kinh_te,Vì sao Việt Nam gom cổ phiếu về một sàn?
+thị trường chứng khoán cổ phiếu tăng trưởng,Kinh_te,3,0.2035,Kinh_te,Cổ phiếu Nvidia lao dốc sau bê bối ngoại tình của Jensen Huang
+giá vàng và bất động sản xuất khẩu,Kinh_te,1,0.415,Kinh_te,Giá vàng thế giới có thể giảm tiếp tuần này
+giá vàng và bất động sản xuất khẩu,Kinh_te,2,0.4032,Kinh_te,Vì sao giá vàng thế giới liên tục giảm?
+giá vàng và bất động sản xuất khẩu,Kinh_te,3,0.3941,Kinh_te,"Giá vàng trong nước giảm chậm hơn thế giới, neo quanh 137 triệu đồng"
+tuyển sinh đại học và điểm chuẩn thi tốt nghiệp,Giao_duc,1,0.2672,Giao_duc,Công bố lịch xét tuyển đại học năm 2027
+tuyển sinh đại học và điểm chuẩn thi tốt nghiệp,Giao_duc,2,0.2333,Giao_duc,Công bố 11 phương thức tuyển sinh đại học từ năm 2027
+tuyển sinh đại học và điểm chuẩn thi tốt nghiệp,Giao_duc,3,0.186,Giao_duc,Đại học Luật TP HCM mở rộng xét học bạ năm 2027
+học sinh giáo viên đổi mới chương trình học,Giao_duc,1,0.1743,Giao_duc,GS Lê Anh Vinh: Thi học sinh giỏi không nên 'chi phối' trường chuyên
+học sinh giáo viên đổi mới chương trình học,Giao_duc,2,0.1677,Giao_duc,"Nghiên cứu chính sách riêng để tuyển giáo viên Tiếng Anh, Tin học"
+học sinh giáo viên đổi mới chương trình học,Giao_duc,3,0.1567,Giao_duc,Giáo viên than kiệt sức vì 'việc không tên'
+du học học bổng sinh viên nghiên cứu,Giao_duc,1,0.2709,Giao_duc,RMIT dành 183 tỷ đồng học bổng cho năm 2027
+du học học bổng sinh viên nghiên cứu,Giao_duc,2,0.2041,Giao_duc,"RMIT Việt Nam trao hơn 51,6 tỷ đồng học bổng năm 2026"
+du học học bổng sinh viên nghiên cứu,Giao_duc,3,0.1962,Giao_duc,Sinh viên RMIT chia sẻ bí quyết săn học bổng
+phòng chống bệnh tim mạch và huyết áp,Suc_khoe,1,0.2337,Suc_khoe,5 trường hợp cần đo huyết áp thường xuyên
+phòng chống bệnh tim mạch và huyết áp,Suc_khoe,2,0.2158,Suc_khoe,"Bật dậy đi vệ sinh giữa đêm mùa lạnh, coi chừng đột quỵ"
+phòng chống bệnh tim mạch và huyết áp,Suc_khoe,3,0.1706,Suc_khoe,Bác sĩ cảnh báo 4 thói quen nguy hiểm khi vừa mở mắt
+chế độ dinh dưỡng giảm cân tập thể dục,Suc_khoe,1,0.3481,Suc_khoe,Dấu hiệu giảm cân quá nhanh
+chế độ dinh dưỡng giảm cân tập thể dục,Suc_khoe,2,0.2442,Suc_khoe,Ăn khoai thế nào để giảm cân
+chế độ dinh dưỡng giảm cân tập thể dục,Suc_khoe,3,0.164,Suc_khoe,Ăn trái cây thay cơm tối có giúp giảm cân?
+bệnh viện bác sĩ phẫu thuật điều trị,Suc_khoe,1,0.1671,Suc_khoe,Bệnh viện Việt Đức 120 năm tuổi
+bệnh viện bác sĩ phẫu thuật điều trị,Suc_khoe,2,0.1606,Suc_khoe,Cụ ông 80 tuổi 'lột xác' như tài tử thập niên 90 sau ca phẫu thuật căng da mặt
+bệnh viện bác sĩ phẫu thuật điều trị,Suc_khoe,3,0.1287,Suc_khoe,Làm gì ngăn phù tay sau khi phẫu thuật ung thư vú?

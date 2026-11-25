@@ -1,0 +1,5 @@
+﻿Loại ca khó,Query gốc,Query sau xử lý,Từ OOV,Top-1 Cosine,Top-1 Chuyên mục,Top-1 Tiêu đề
+Đồng nghĩa (xe hơi vs ô tô),xe hơi điện chạy pin,xe_hơi điện chạy pin,(Không có),0.2757,Kinh_te,Trung Quốc phát triển xe điện thần tốc nhờ công nghệ đổi pin
+Đồng nghĩa / thuật ngữ y khoa (đái tháo đường vs tiểu đường),bệnh tiểu đường ăn kiêng,bệnh tiểu_đường ăn_kiêng,(Không có),0.1984,Suc_khoe,Ba nguy cơ sức khỏe 'rình rập' người tiểu đường trong mùa lạnh
+Từ ngoài từ vựng (OOV),quantum_xyz_999 siêu_máy_tính_ảo,quantum_xyz_999 siêu_máy_tính_ảo,"quantum_xyz_999, siêu_máy_tính_ảo",0.0,Suc_khoe,Đề xuất miễn giấy chứng nhận an toàn nhưng tăng hậu kiểm bếp ăn tập thể
+Từ đa nghĩa / dịch nghĩa đen (Apple vs quả táo),quả táo ra mắt sản phẩm mới,quả táo ra_mắt sản_phẩm,(Không có),0.1892,Suc_khoe,Vì sao người trào ngược dạ dày nên ăn táo?

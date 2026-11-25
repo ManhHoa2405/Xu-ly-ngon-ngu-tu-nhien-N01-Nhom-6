@@ -1,0 +1,4 @@
+﻿Hệ thống,Vocab Size,Mean Precision@5,MRR@5,Số query trả về 0 điểm
+S1_Count_1gram,11983,0.9067,0.9667,0
+S2_TFIDF_1gram,11983,0.9067,0.9333,0
+S3_TFIDF_12gram,72596,0.9467,0.9333,0

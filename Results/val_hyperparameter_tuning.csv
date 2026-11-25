@@ -1,0 +1,9 @@
+﻿Model,Param,Val_Macro_F1
+MultinomialNB,alpha=0.1,0.9854
+MultinomialNB,alpha=0.5,0.9808
+MultinomialNB,alpha=1.0,0.9758
+MultinomialNB,alpha=2.0,0.9713
+LogisticRegression,C=0.1,0.9394
+LogisticRegression,C=1.0,0.9857
+LogisticRegression,C=5.0,0.9902
+LogisticRegression,C=10.0,0.9902
